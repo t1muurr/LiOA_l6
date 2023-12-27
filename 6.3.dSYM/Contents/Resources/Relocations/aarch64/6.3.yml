@@ -1,0 +1,9 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/timur/Desktop/main/lb6/LiOA_l6/6.3'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: __Z13Output_matrixPPii, symObjAddr: 0x0, symBinAddr: 0x100003098, symSize: 0x2CC }
+  - { offsetInCU: 0x52, offset: 0x52, size: 0x8, addend: 0x0, symName: __Z13Output_matrixPPii, symObjAddr: 0x0, symBinAddr: 0x100003098, symSize: 0x2CC }
+  - { offsetInCU: 0x168, offset: 0x168, size: 0x8, addend: 0x0, symName: __Z12Print_matrixPPii, symObjAddr: 0x2CC, symBinAddr: 0x100003364, symSize: 0xC0 }
+  - { offsetInCU: 0x1D6, offset: 0x1D6, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x38C, symBinAddr: 0x100003424, symSize: 0x8F0 }
+...
